@@ -1,0 +1,8 @@
+7
+15	can
+15	cat
+5	actor
+20	act
+5	in
+20	inn
+67	her
