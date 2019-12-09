@@ -12,7 +12,6 @@ setup(
   download_url = 'https://github.com/junyi-zhu/junyizhu_autocomplete/archive/v0.2.tar.gz',    # I explain this later on
   keywords = ['autocomplete', 'trie', 'weights'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
-          'heapq',
           'pytest',
       ],
   classifiers=[
